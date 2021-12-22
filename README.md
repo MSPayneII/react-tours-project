@@ -16,10 +16,6 @@ This was a hands-on React project provided by the John Smilga as part of his Ude
 
 - React
 
-## Idea
-
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
-
 ## Author
 
 👤 **Michael Payne**
