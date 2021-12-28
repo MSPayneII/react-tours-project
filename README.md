@@ -4,6 +4,7 @@
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
+  <img alt="License: ISC" src="https://api.netlify.com/api/v1/badges/68174cb2-4253-45bc-b4f9-9eb3c47fd67b/deploy-status" />
 </p>
 
 ## Reason for choosing this project:
